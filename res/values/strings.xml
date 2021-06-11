@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Date Picker</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_show_alert">Pick Date</string>
+    <string name="textview_chooseitem">Pick Date</string>
+    <string name="rb_banana">Banana</string>
+    <string name="rb_apple">Apple</string>
+    <string name="rb_blackberry">Blackberry</string>
+    <string name="btn_txt_ok">OK</string>
+    <string name="textview_selecteditem_labal">Chosen Date:</string>
+
+</resources>
